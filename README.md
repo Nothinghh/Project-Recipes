@@ -1,4 +1,4 @@
 # Project-Recipes
-1.Pesto Pizza 
-2.Fried Rice
-3.Barbecued Meatballs
+1.Pesto Pizza <br>
+2.Fried Rice <br>
+3.Barbecued Meatballs <br>
